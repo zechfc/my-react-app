@@ -9,9 +9,9 @@ const App = () => {
     <div>
     <Header />
 
-    <Animal name="Panda" className="Panda"/>
+    <Animal name="Panda" className="panda" images=""/>
     
-    <Animal name="Tiger" className="Tiger"/>
+    <Animal name="Tiger" className="tiger" images=""/>
 
     <Footer />
     </div>
